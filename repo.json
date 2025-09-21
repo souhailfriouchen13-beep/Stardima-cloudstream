@@ -1,0 +1,10 @@
+{
+  "name": "Stardima",
+  "author": "Souhail Friouchen",
+  "description": "Plugin for stardima.one",
+  "iconUrl": "",
+  "version": 1,
+  "pluginList": [
+    "stardima/Stardima_one.cs3"
+  ]
+}
